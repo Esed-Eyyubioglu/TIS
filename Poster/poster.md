@@ -15,7 +15,6 @@ This industry talk helped me connect what we learn in class to real organization
 ### 🖼️ Poster Preview
 ![Poster Preview](./poster.jpg)
 
-> If your poster is a PDF only, you can keep the image line above and replace `poster.jpg` with a screenshot of the poster.
 
 
 
