@@ -3,7 +3,7 @@
 ---
 
 ## 📌 Overview
-This poster summarizes **Industry Talk 1** and explains how **PPG** uses **Digital IT**—especially **Data Analytics**, **IT Infrastructure**, and **SAP**—to support global operations. The main idea highlighted is that IT is not only about coding; it enables business processes, integration, and better decision-making.
+This poster summarizes **Industry Talk 1** and explains how **PPG** utilizes **Digital IT**, particularly **Data Analytics**, **IT Infrastructure**, and **SAP**, to support its global operations. The main idea highlighted is that IT is not only about coding; it enables business processes, integration, and better decision-making.
 
 ---
 
