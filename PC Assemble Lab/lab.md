@@ -31,10 +31,10 @@ Overall, it improved my confidence in handling basic hardware tasks and gave me 
 
 ## 📎 Evidence (Photos)
 ### 🖼️ De-assembly
-![PC Open Case](./images/pc_open.jpg)
+![PC Open Case](./pc_open.jpeg)
 
 ### 🖼️ Final Assembled Result
-![PC Closed Case](./images/pc_closed.jpg)
+![PC Closed Case](./pc_closed.jpeg)
 
 
 
