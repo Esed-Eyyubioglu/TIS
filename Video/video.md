@@ -1,4 +1,4 @@
-# 🎬 Assignment 2 — Vlog (UTMDigital Open Day)
+# 🎬 Vlog (UTMDigital Open Day)
 
 ---
 
