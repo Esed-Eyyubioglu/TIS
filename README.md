@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📌 TIS e-Portfolio (SECP1513) — 2025/2026 Semester 1  
+# 📌 (SECP1513) TIS e-Portfolio — 2025/2026 Semester 1  
 ### **Technology and Information System (SECP1513)**  
 
 <br/>
