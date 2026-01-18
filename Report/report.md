@@ -14,6 +14,7 @@ This talk helped me realize that programming alone is not enough. Planning and o
 ---
 
 ### 📄 Report Preview
-![Report Cover](./report_cover.jpg)
-
+![Report Cover](./report_cover1.jpg)
+![Report Cover](./report_cover2.jpg)
+![Report Cover](./report_cover3.jpg)
 
