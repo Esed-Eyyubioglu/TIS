@@ -32,6 +32,7 @@ Each section includes:
 ---
 
 ## 📁 Assignments
+[📰 Assignment 1 — Poster](#-assignment-1--poster-industry-talk-1)
 1) Vlog (UTMDigital Open Day): `./Video/video.md`
 2) Poster (Industry Talk 1): `./Poster/poster.md`
 3) Academic Writing Report (Industry Talk 2): `./Report/report.md`
