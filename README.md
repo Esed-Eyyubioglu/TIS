@@ -38,6 +38,6 @@ Each section includes:
 
 [3) 📝 Academic Writing Report (Industry Talk 2)](./Report/report.md)
 
-[4) 🛠️ Lab (PC Assemble)](./PC_Assemble_Lab/lab.md)
+[4) 🛠️ Lab (PC Assemble)](./PC-Assemble-Lab/lab.md)
 
 
