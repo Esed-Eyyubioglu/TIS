@@ -32,7 +32,7 @@ Each section includes:
 ---
 
 ## 📁 Assignments
-1) Vlog (UTMDigital Open Day): (./Video/video.md)
-2) Poster (Industry Talk 1): (./Poster/poster.md)
-3) Academic Writing Report (Industry Talk 2): (./Report/report.md)
-4) Lab (PC Assemble): (./PC Assemble Lab/lab.md)
+1) Vlog (UTMDigital Open Day): `./Video/video.md`
+2) Poster (Industry Talk 1): `./Poster/poster.md`
+3) Academic Writing Report (Industry Talk 2): `./Report/report.md`
+4) Lab (PC Assemble): `./PC Assemble Lab/lab.md`
