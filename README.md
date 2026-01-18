@@ -28,3 +28,11 @@ Each section includes:
 - ✅ The final deliverable (poster / video link / report / lab)
 - ✅ A short overview of the task
 - ✅ A reflection written in my own words (as required)
+
+---
+
+## 📁 Assignments
+1) Vlog (UTMDigital Open Day): (./Video/video.md)
+2) Poster (Industry Talk 1): (./Poster/poster.md)
+3) Academic Writing Report (Industry Talk 2): (./Report/report.md)
+4) Lab (PC Assemble): (./PC Assemble Lab/lab.md)
